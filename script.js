@@ -47,6 +47,4 @@ document.addEventListener('DOMContentLoaded', function() {
         card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
         observer.observe(card);
     });
-    
-    // Eliminado el código relacionado con la subida de fotos
 });
